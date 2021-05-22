@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Mg̃a paquigpulong sa Iningles ug Binisaya</dc:title>
+      <dc:creator>P. Gregorio de Santiago (1865–1924)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2012-12-02</dc:publisher>
+      <dc:date>2012-12-02</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from The Internet Archive (copy 1, 2).
+</dc:rights>
+      <dc:subject>Bisayan languages -- Conversation and phrase books</dc:subject>
+      <dc:subject>Bisayan languages -- Glossaries, vocabularies, etc.</dc:subject>
+      <dc:description>This 1905 book was primarily meant for use by Cebuano speakers to learn English ‘by example.’ Given its ‘no grammar’ approach, it works equally well (or not) the other way round. The book starts with thematic lists of words, followed by a number of translated sentences on various themes, short sample letters, and concludes with a pronunciation guide (of English).</dc:description>
+      <dc:identifier>pg:41540</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
